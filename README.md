@@ -1,6 +1,4 @@
 
-markdown
-Skopiuj kod
 # Breast Cancer Prediction Using Decision Tree Classifier
 
 This project predicts whether breast cancer is benign or malignant using a **Decision Tree Classifier**. It processes a breast cancer dataset, evaluates model performance using metrics such as precision, recall, and F1-score, and visualizes the decision tree and feature importance.
